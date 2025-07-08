@@ -17,7 +17,7 @@ The program continuously checks if the joystick or the servo has been inactive f
 
 ---
 
-⚠If inactivity is detected:
+If inactivity is detected:
 
 The LCD displays "Inactivity Detected!"
 
